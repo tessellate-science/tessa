@@ -1,2 +1,2 @@
 # tess-index
-Data Index for Tess AI Research Assistant
+Data Index for Tessa AI Research Assistant
