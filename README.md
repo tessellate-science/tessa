@@ -1,2 +1,3 @@
-# tess-index
-Data Index for Tessa AI Research Assistant
+# Tessa
+
+This is the repository for the Tessa AI Research Assistant.
